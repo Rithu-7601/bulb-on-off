@@ -1,2 +1,3 @@
 # bulb-on-off
-You can just click to on and off the bulb
+
+You can just click the bulb to on and off the bulb
