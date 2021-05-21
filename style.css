@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+}
+h1 {
+  color: rgb(0, 0, 0);
+}
+.bulb-off {
+  width: 265px;
+  height: 400px;
+  margin: auto;
+
+  background: url("bulb1.png") no-repeat;
+}
+
+.bulb-on {
+  width: 265px;
+  height: 400px;
+  margin: auto;
+
+  background: url("bulb3.png") no-repeat;
+}
